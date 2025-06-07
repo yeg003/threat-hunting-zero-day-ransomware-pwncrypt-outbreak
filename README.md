@@ -18,11 +18,11 @@ However, no files were encrypted. The hunt was able to confirm delivery and exec
 
 ## Timeline
 
-![Timeline](pwncrypt_timeline.png)
+![Timeline](pwncrypt-timeline.png)
 
 ## Report
 
-See [`pwncrypt_threat_hunt_report.md`](./pwncrypt_threat_hunt_report.md) for the full analysis, IOCs, timeline, and recommendations.
+See [`pwncrypt-threat-hunt-report.md`](./pwncrypt-threat-hunt-report.md) for the full analysis, IOCs, timeline, and recommendations.
 
 ## Outcome
 
@@ -34,5 +34,4 @@ The incident was contained. The script was executed but encryption failed or was
 
 - Microsoft Defender for Endpoint (Advanced Hunting)
 - Kusto Query Language (KQL)
-- Python (for report/chart generation)
 - GitHub (for documentation and portfolio)
